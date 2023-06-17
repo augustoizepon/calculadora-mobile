@@ -122,3 +122,7 @@ acButton.addEventListener("click", () => {
   currentOperation = "";
   updateDisplay();
 });
+
+if (currentExpression == "40028922"){
+  alert("https://youtu.be/xBzSblZ1ZkY")
+}
